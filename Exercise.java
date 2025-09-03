@@ -2,7 +2,7 @@
  * Name: Chapter 3 Programming Exercise
  * Purpose: Meant to find all of the roots within a quadratic equation
  * Programmer: Alex Kurcan
- * Date: 11/26/2025
+ * Date: 8/26/2025
  */
 
 
